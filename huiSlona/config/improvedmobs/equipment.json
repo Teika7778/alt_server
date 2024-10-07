@@ -1,0 +1,1280 @@
+{
+  "__comment": [
+    "Mobs will be able to equip items declared here",
+    "The first number is the weight while the second number is the quality",
+    "Weight is the weight of an item. Higher weight means that the item is more likely to get choosen",
+    "Quality is a modifier applied to the weight. The final weight used is weight + quality * current difficulty"
+  ],
+  "MAINHAND": {
+    "ars_nouveau:enchanters_sword": [
+      3612,
+      6.632802
+    ],
+    "ars_nouveau:spell_bow": [
+      5383,
+      2.1195521
+    ],
+    "ars_nouveau:spell_crossbow": [
+      5839,
+      1.5245426
+    ],
+    "bloodmagic:soulaxe": [
+      6299,
+      0.93313384
+    ],
+    "bloodmagic:soulsword": [
+      6299,
+      0.93313384
+    ],
+    "blue_skies:aquite_axe": [
+      6572,
+      0.56912816
+    ],
+    "blue_skies:aquite_sword": [
+      6659,
+      0.40784094
+    ],
+    "blue_skies:bluebright_axe": [
+      6993,
+      0.019
+    ],
+    "blue_skies:bluebright_sword": [
+      7056,
+      0.0127
+    ],
+    "blue_skies:charoite_axe": [
+      4378,
+      5.022479
+    ],
+    "blue_skies:charoite_sword": [
+      4440,
+      4.889481
+    ],
+    "blue_skies:comet_axe": [
+      6909,
+      0.0274
+    ],
+    "blue_skies:comet_sword": [
+      6978,
+      0.020499999
+    ],
+    "blue_skies:debug_sword": [
+      5376,
+      2.128765
+    ],
+    "blue_skies:different_sword": [
+      5253,
+      2.2910256
+    ],
+    "blue_skies:diopside_axe": [
+      4124,
+      5.561167
+    ],
+    "blue_skies:diopside_sword": [
+      4208,
+      5.383871
+    ],
+    "blue_skies:dusk_axe": [
+      6993,
+      0.019
+    ],
+    "blue_skies:dusk_sword": [
+      7056,
+      0.0127
+    ],
+    "blue_skies:frostbright_axe": [
+      6993,
+      0.019
+    ],
+    "blue_skies:frostbright_sword": [
+      7056,
+      0.0127
+    ],
+    "blue_skies:horizonite_axe": [
+      6606,
+      0.51635593
+    ],
+    "blue_skies:horizonite_sword": [
+      6693,
+      0.049
+    ],
+    "blue_skies:infused_arc_sword": [
+      5501,
+      1.9645984
+    ],
+    "blue_skies:lunar_axe": [
+      6993,
+      0.019
+    ],
+    "blue_skies:lunar_stone_axe": [
+      6809,
+      0.0374
+    ],
+    "blue_skies:lunar_stone_sword": [
+      6917,
+      0.026599998
+    ],
+    "blue_skies:lunar_sword": [
+      7056,
+      0.0127
+    ],
+    "blue_skies:maple_axe": [
+      6993,
+      0.019
+    ],
+    "blue_skies:maple_sword": [
+      7056,
+      0.0127
+    ],
+    "blue_skies:pyrope_axe": [
+      6708,
+      0.0475
+    ],
+    "blue_skies:pyrope_sword": [
+      6789,
+      0.039399996
+    ],
+    "blue_skies:starlit_axe": [
+      6993,
+      0.019
+    ],
+    "blue_skies:starlit_sword": [
+      7056,
+      0.0127
+    ],
+    "blue_skies:turquoise_stone_axe": [
+      6809,
+      0.0374
+    ],
+    "blue_skies:turquoise_stone_sword": [
+      6917,
+      0.026599998
+    ],
+    "create_dd:deforester_saw": [
+      6161,
+      1.1101819
+    ],
+    "create_dd:gilded_rose_axe": [
+      4444,
+      4.8808722
+    ],
+    "create_dd:gilded_rose_sword": [
+      4543,
+      4.666484
+    ],
+    "create_sa:blazing_axe": [
+      6283,
+      0.95369714
+    ],
+    "create_sa:blazing_cleaver": [
+      6341,
+      0.8790464
+    ],
+    "create_sa:brass_axe": [
+      6266,
+      0.9755281
+    ],
+    "create_sa:brass_sword": [
+      6328,
+      0.89580816
+    ],
+    "create_sa:copper_axe": [
+      6871,
+      0.031199997
+    ],
+    "create_sa:copper_sword": [
+      6896,
+      0.028699998
+    ],
+    "create_sa:experience_axe": [
+      6634,
+      0.46648473
+    ],
+    "create_sa:experience_sword": [
+      6670,
+      0.36782715
+    ],
+    "create_sa:rose_quartz_axe": [
+      4237,
+      5.322494
+    ],
+    "create_sa:rose_quartz_sword": [
+      4270,
+      5.2525306
+    ],
+    "create_sa:zinc_axe": [
+      6606,
+      0.51635593
+    ],
+    "create_sa:zinc_sword": [
+      6693,
+      0.049
+    ],
+    "createchromaticreturn:bamboo_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:blazing_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:bone_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:durasteel_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:industrium_shadow_steel_sword": [
+      48,
+      14.097648
+    ],
+    "createchromaticreturn:multiplite_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:radiant_glow_saber": [
+      6787,
+      0.039599996
+    ],
+    "createchromaticreturn:refined_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "createchromaticreturn:silkstrum_shadow_steel_sword": [
+      20,
+      14.156867
+    ],
+    "deeperdarker:resonarium_axe": [
+      5003,
+      3.5768492
+    ],
+    "deeperdarker:resonarium_sword": [
+      5065,
+      3.385685
+    ],
+    "deeperdarker:warden_axe": [
+      2671,
+      8.592401
+    ],
+    "deeperdarker:warden_sword": [
+      2749,
+      8.429875
+    ],
+    "dungeonnowloading:life_stealer": [
+      4438,
+      4.8937836
+    ],
+    "dungeonnowloading:spawner_sword": [
+      4438,
+      4.8937836
+    ],
+    "midnight:dark_bow": [
+      4615,
+      4.508568
+    ],
+    "midnight:ebonite_axe": [
+      6469,
+      0.7119398
+    ],
+    "midnight:ebonite_sword": [
+      6523,
+      0.63890266
+    ],
+    "midnight:nagrilite_axe": [
+      5586,
+      1.853399
+    ],
+    "midnight:nagrilite_sword": [
+      5648,
+      1.7725146
+    ],
+    "midnight:nightstone_axe": [
+      6838,
+      0.0345
+    ],
+    "midnight:nightstone_sword": [
+      6884,
+      0.0299
+    ],
+    "midnight:shadowroot_axe": [
+      6993,
+      0.019
+    ],
+    "midnight:shadowroot_sword": [
+      7056,
+      0.0127
+    ],
+    "midnight:tenebrum_axe": [
+      3832,
+      6.173617
+    ],
+    "midnight:tenebrum_sword": [
+      3902,
+      6.027198
+    ],
+    "minecraft:bow": [
+      4615,
+      4.508568
+    ],
+    "minecraft:crossbow": [
+      4909,
+      3.826627
+    ],
+    "minecraft:diamond_axe": [
+      4378,
+      5.022479
+    ],
+    "minecraft:diamond_sword": [
+      4440,
+      4.889481
+    ],
+    "minecraft:enchanted_book": [
+      5583,
+      1.8573177
+    ],
+    "minecraft:golden_axe": [
+      7039,
+      0.014399999
+    ],
+    "minecraft:golden_sword": [
+      7102,
+      0.0081
+    ],
+    "minecraft:iron_axe": [
+      6606,
+      0.51635593
+    ],
+    "minecraft:iron_sword": [
+      6693,
+      0.049
+    ],
+    "minecraft:lingering_potion{Potion:\"minecraft:harming\"}": [
+      5683,
+      1.7269388
+    ],
+    "minecraft:netherite_axe": [
+      3542,
+      6.778693
+    ],
+    "minecraft:netherite_sword": [
+      3612,
+      6.632802
+    ],
+    "minecraft:snowball": [
+      6633,
+      0.46844563
+    ],
+    "minecraft:splash_potion{Potion:\"minecraft:harming\"}": [
+      5683,
+      1.7269388
+    ],
+    "minecraft:stone_axe": [
+      6809,
+      0.0374
+    ],
+    "minecraft:stone_sword": [
+      6917,
+      0.026599998
+    ],
+    "minecraft:tnt": [
+      5483,
+      1.9881918
+    ],
+    "minecraft:trident": [
+      4683,
+      4.357304
+    ],
+    "minecraft:wooden_axe": [
+      6993,
+      0.019
+    ],
+    "minecraft:wooden_sword": [
+      7056,
+      0.0127
+    ],
+    "tfmg:aluminum_axe": [
+      6657,
+      0.4136078
+    ],
+    "tfmg:aluminum_sword": [
+      6744,
+      0.043899998
+    ],
+    "tfmg:lead_axe": [
+      7025,
+      0.0158
+    ],
+    "tfmg:lead_sword": [
+      7094,
+      0.0089
+    ],
+    "tfmg:lit_lithium_blade": [
+      5364,
+      2.1445646
+    ],
+    "tfmg:lithium_blade": [
+      5393,
+      2.1063945
+    ],
+    "tfmg:steel_axe": [
+      5294,
+      2.236861
+    ],
+    "tfmg:steel_sword": [
+      5393,
+      2.1063945
+    ],
+    "the_pillager_legion_:legion_axe_tpl": [
+      5364,
+      2.1445646
+    ],
+    "the_pillager_legion_:legion_flaming_sword": [
+      5247,
+      2.2989588
+    ],
+    "the_pillager_legion_:legion_gladuis_tpl": [
+      5456,
+      2.0236118
+    ],
+    "the_pillager_legion_:legion_heavy_axe_tpl": [
+      5247,
+      2.2989588
+    ],
+    "the_pillager_legion_:legion_sword_tpl": [
+      5364,
+      2.1445646
+    ],
+    "the_pillager_legion_:republican_gmaduis_tpl": [
+      5364,
+      2.1445646
+    ]
+  },
+  "OFFHAND": {
+    "ars_nouveau:enchanters_shield": [
+      937,
+      2.053812
+    ],
+    "blue_skies:moonstone_shield": [
+      1017,
+      1.948878
+    ],
+    "blue_skies:spike_shield": [
+      237,
+      4.2443447
+    ],
+    "midnight:rockshroom_shield": [
+      1265,
+      1.6255897
+    ],
+    "midnight:tenebrum_shield": [
+      369,
+      3.93519
+    ],
+    "minecraft:ender_pearl": [
+      1587,
+      1.2102311
+    ],
+    "minecraft:flint_and_steel": [
+      1559,
+      1.2461817
+    ],
+    "minecraft:lava_bucket": [
+      1187,
+      1.7269388
+    ],
+    "minecraft:shield": [
+      1265,
+      1.6255897
+    ],
+    "the_pillager_legion_:classic_legion_shield": [
+      1737,
+      1.0178697
+    ],
+    "the_pillager_legion_:clipeus_legion_shield": [
+      1737,
+      1.0178697
+    ],
+    "the_pillager_legion_:parma_legion_shield": [
+      1737,
+      1.0178697
+    ]
+  },
+  "FEET": {
+    "ars_elemental:air_boots": [
+      1039,
+      2.2025528
+    ],
+    "ars_elemental:aqua_boots": [
+      1039,
+      2.2025528
+    ],
+    "ars_elemental:earth_boots": [
+      1021,
+      2.2263014
+    ],
+    "ars_elemental:fire_boots": [
+      1039,
+      2.2025528
+    ],
+    "ars_nouveau:arcanist_boots": [
+      1677,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_boots": [
+      917,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_boots": [
+      2093,
+      0.8363856
+    ],
+    "bloodmagic:livingboots": [
+      1726,
+      1.3078723
+    ],
+    "blue_skies:aquite_boots": [
+      1852,
+      1.1460843
+    ],
+    "blue_skies:charoite_boots": [
+      1017,
+      2.231581
+    ],
+    "blue_skies:diopside_boots": [
+      1536,
+      1.5530128
+    ],
+    "blue_skies:horizonite_boots": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:pyrope_boots": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:shadow_boots": [
+      994,
+      2.2619522
+    ],
+    "create:copper_diving_boots": [
+      2328,
+      0.5113901
+    ],
+    "create:netherite_diving_boots": [
+      1267,
+      1.9030677
+    ],
+    "create_sa:brass_boots": [
+      1596,
+      1.4754212
+    ],
+    "create_sa:copper_boots": [
+      1968,
+      0.9973453
+    ],
+    "create_sa:slime_boots": [
+      1922,
+      1.0563377
+    ],
+    "create_sa:zinc_boots": [
+      1817,
+      1.1909808
+    ],
+    "deeperdarker:resonarium_boots": [
+      1346,
+      1.7998894
+    ],
+    "deeperdarker:warden_boots": [
+      61,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_boots": [
+      1144,
+      2.0643225
+    ],
+    "midnight:rockshroom_boots": [
+      2372,
+      0.42433748
+    ],
+    "midnight:tenebrum_boots": [
+      809,
+      3.2958906
+    ],
+    "minecraft:chainmail_boots": [
+      2310,
+      0.540316
+    ],
+    "minecraft:diamond_boots": [
+      1394,
+      1.7373508
+    ],
+    "minecraft:golden_boots": [
+      2376,
+      0.4136078
+    ],
+    "minecraft:iron_boots": [
+      2062,
+      0.8764657
+    ],
+    "minecraft:leather_boots": [
+      2658,
+      0.0244
+    ],
+    "minecraft:netherite_boots": [
+      1267,
+      1.9030677
+    ],
+    "protection_pixel:socks_boots": [
+      1936,
+      1.0383878
+    ],
+    "tfmg:steel_boots": [
+      903,
+      2.3823528
+    ],
+    "the_pillager_legion_:legion_armor_boots": [
+      1739,
+      1.2911562
+    ],
+    "the_pillager_legion_:legion_nether_armor_boots": [
+      1683,
+      1.3632114
+    ],
+    "tomeofblood:living_mage_boots": [
+      1726,
+      1.3078723
+    ]
+  },
+  "LEGS": {
+    "ars_elemental:air_leggings": [
+      1044,
+      2.1959586
+    ],
+    "ars_elemental:aqua_leggings": [
+      1044,
+      2.1959586
+    ],
+    "ars_elemental:earth_leggings": [
+      1026,
+      2.2197032
+    ],
+    "ars_elemental:fire_leggings": [
+      1044,
+      2.1959586
+    ],
+    "ars_nouveau:arcanist_leggings": [
+      1677,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_leggings": [
+      917,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_leggings": [
+      2093,
+      0.8363856
+    ],
+    "bloodmagic:livingleggings": [
+      1726,
+      1.3078723
+    ],
+    "blue_skies:aquite_leggings": [
+      1852,
+      1.1460843
+    ],
+    "blue_skies:charoite_leggings": [
+      1017,
+      2.231581
+    ],
+    "blue_skies:diopside_leggings": [
+      1536,
+      1.5530128
+    ],
+    "blue_skies:horizonite_leggings": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:pyrope_leggings": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:shadow_leggings": [
+      994,
+      2.2619522
+    ],
+    "create_sa:brass_leggings": [
+      1596,
+      1.4754212
+    ],
+    "create_sa:copper_leggings": [
+      1968,
+      0.9973453
+    ],
+    "create_sa:zinc_leggings": [
+      1817,
+      1.1909808
+    ],
+    "deeperdarker:resonarium_leggings": [
+      1346,
+      1.7998894
+    ],
+    "deeperdarker:warden_leggings": [
+      61,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_leggings": [
+      1104,
+      2.1169202
+    ],
+    "midnight:rockshroom_leggings": [
+      2372,
+      0.42433748
+    ],
+    "midnight:tenebrum_leggings": [
+      809,
+      3.2958906
+    ],
+    "minecraft:chainmail_leggings": [
+      2310,
+      0.540316
+    ],
+    "minecraft:diamond_leggings": [
+      1394,
+      1.7373508
+    ],
+    "minecraft:golden_leggings": [
+      2376,
+      0.4136078
+    ],
+    "minecraft:iron_leggings": [
+      2062,
+      0.8764657
+    ],
+    "minecraft:leather_leggings": [
+      2658,
+      0.0244
+    ],
+    "minecraft:netherite_leggings": [
+      1267,
+      1.9030677
+    ],
+    "protection_pixel:anchorpoint_leggings": [
+      1935,
+      1.03967
+    ],
+    "protection_pixel:anchorpointas_leggings": [
+      1715,
+      1.3220218
+    ],
+    "protection_pixel:buoyancy_leggings": [
+      2128,
+      0.79089624
+    ],
+    "protection_pixel:buoyancyas_leggings": [
+      1978,
+      0.98451304
+    ],
+    "protection_pixel:slingshot_leggings": [
+      2128,
+      0.79089624
+    ],
+    "protection_pixel:slingshotas_leggings": [
+      1978,
+      0.98451304
+    ],
+    "tfmg:steel_leggings": [
+      903,
+      2.3823528
+    ],
+    "the_pillager_legion_:legion_armor_leggings": [
+      1739,
+      1.2911562
+    ],
+    "the_pillager_legion_:legion_nether_armor_leggings": [
+      1683,
+      1.3632114
+    ],
+    "tomeofblood:living_mage_leggings": [
+      1726,
+      1.3078723
+    ]
+  },
+  "CHEST": {
+    "ars_elemental:air_robes": [
+      1046,
+      2.1933215
+    ],
+    "ars_elemental:aqua_robes": [
+      1046,
+      2.1933215
+    ],
+    "ars_elemental:earth_robes": [
+      1028,
+      2.217064
+    ],
+    "ars_elemental:fire_robes": [
+      1046,
+      2.1933215
+    ],
+    "ars_nouveau:arcanist_robes": [
+      1677,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_robes": [
+      917,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_robes": [
+      2093,
+      0.8363856
+    ],
+    "bloodmagic:livingplate": [
+      1726,
+      1.3078723
+    ],
+    "blue_skies:aquite_chestplate": [
+      1852,
+      1.1460843
+    ],
+    "blue_skies:charoite_chestplate": [
+      1017,
+      2.231581
+    ],
+    "blue_skies:diopside_chestplate": [
+      1536,
+      1.5530128
+    ],
+    "blue_skies:horizonite_chestplate": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:pyrope_chestplate": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:shadow_chestplate": [
+      994,
+      2.2619522
+    ],
+    "create:copper_backtank": [
+      2328,
+      0.5113901
+    ],
+    "create:netherite_backtank": [
+      1267,
+      1.9030677
+    ],
+    "create_sa:andesite_exoskeleton_chestplate": [
+      1693,
+      1.3503351
+    ],
+    "create_sa:andesite_jetpack_chestplate": [
+      1817,
+      1.1909808
+    ],
+    "create_sa:brass_chestplate": [
+      1596,
+      1.4754212
+    ],
+    "create_sa:brass_exoskeleton_chestplate": [
+      1458,
+      1.6541448
+    ],
+    "create_sa:brass_jetpack_chestplate": [
+      1726,
+      1.3078723
+    ],
+    "create_sa:copper_chestplate": [
+      1968,
+      0.9973453
+    ],
+    "create_sa:copper_exoskeleton_chestplate": [
+      1852,
+      1.1460843
+    ],
+    "create_sa:copper_jetpack_chestplate": [
+      1852,
+      1.1460843
+    ],
+    "create_sa:zinc_chestplate": [
+      1817,
+      1.1909808
+    ],
+    "deeperdarker:resonarium_chestplate": [
+      1346,
+      1.7998894
+    ],
+    "deeperdarker:warden_chestplate": [
+      61,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_chestplate": [
+      1128,
+      2.0853524
+    ],
+    "midnight:rockshroom_chestplate": [
+      2372,
+      0.42433748
+    ],
+    "midnight:tenebrum_chestplate": [
+      809,
+      3.2958906
+    ],
+    "minecraft:chainmail_chestplate": [
+      2310,
+      0.540316
+    ],
+    "minecraft:diamond_chestplate": [
+      1394,
+      1.7373508
+    ],
+    "minecraft:golden_chestplate": [
+      2376,
+      0.4136078
+    ],
+    "minecraft:iron_chestplate": [
+      2062,
+      0.8764657
+    ],
+    "minecraft:leather_chestplate": [
+      2658,
+      0.0244
+    ],
+    "minecraft:netherite_chestplate": [
+      1267,
+      1.9030677
+    ],
+    "protection_pixel:breaker_chestplate": [
+      2212,
+      0.67980134
+    ],
+    "protection_pixel:breakeras_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "protection_pixel:floatshield_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "protection_pixel:hellsnake_chestplate": [
+      2212,
+      0.67980134
+    ],
+    "protection_pixel:hellsnakeas_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "protection_pixel:magneticstorm_chestplate": [
+      2212,
+      0.67980134
+    ],
+    "protection_pixel:magneticstormas_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "protection_pixel:pioneer_chestplate": [
+      2212,
+      0.67980134
+    ],
+    "protection_pixel:pioneeras_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "protection_pixel:wingsofprism_chestplate": [
+      2212,
+      0.67980134
+    ],
+    "protection_pixel:wingsofprismas_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "protection_pixel:workerhornet_chestplate": [
+      2212,
+      0.67980134
+    ],
+    "protection_pixel:workerhornetas_chestplate": [
+      2075,
+      0.85967726
+    ],
+    "tfmg:steel_chestplate": [
+      903,
+      2.3823528
+    ],
+    "the_pillager_legion_:legion_armor_chestplate": [
+      1739,
+      1.2911562
+    ],
+    "the_pillager_legion_:legion_nether_armor_chestplate": [
+      1683,
+      1.3632114
+    ],
+    "tomeofblood:living_mage_robes": [
+      1726,
+      1.3078723
+    ]
+  },
+  "HEAD": {
+    "ars_elemental:air_hat": [
+      1033,
+      2.2104676
+    ],
+    "ars_elemental:aqua_hat": [
+      1033,
+      2.2104676
+    ],
+    "ars_elemental:earth_hat": [
+      1015,
+      2.2342207
+    ],
+    "ars_elemental:fire_hat": [
+      1033,
+      2.2104676
+    ],
+    "ars_nouveau:arcanist_hood": [
+      1677,
+      1.3709393
+    ],
+    "ars_nouveau:battlemage_hood": [
+      917,
+      2.3638055
+    ],
+    "ars_nouveau:sorcerer_hood": [
+      2093,
+      0.8363856
+    ],
+    "bloodmagic:livinghelmet": [
+      1726,
+      1.3078723
+    ],
+    "blue_skies:aquite_helmet": [
+      1852,
+      1.1460843
+    ],
+    "blue_skies:charoite_helmet": [
+      1017,
+      2.231581
+    ],
+    "blue_skies:diopside_helmet": [
+      1536,
+      1.5530128
+    ],
+    "blue_skies:horizonite_helmet": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:pyrope_helmet": [
+      2161,
+      0.74766654
+    ],
+    "blue_skies:shadow_helmet": [
+      994,
+      2.2619522
+    ],
+    "create:copper_diving_helmet": [
+      2328,
+      0.5113901
+    ],
+    "create:netherite_diving_helmet": [
+      1267,
+      1.9030677
+    ],
+    "create_sa:brass_helmet": [
+      1596,
+      1.4754212
+    ],
+    "create_sa:copper_helmet": [
+      1968,
+      0.9973453
+    ],
+    "create_sa:slime_helmet": [
+      1922,
+      1.0563377
+    ],
+    "create_sa:zinc_helmet": [
+      1817,
+      1.1909808
+    ],
+    "deeperdarker:resonarium_helmet": [
+      1346,
+      1.7998894
+    ],
+    "deeperdarker:warden_helmet": [
+      61,
+      5.0993676
+    ],
+    "dungeonnowloading:spawner_helmet": [
+      1083,
+      2.1445646
+    ],
+    "midnight:rockshroom_helmet": [
+      2372,
+      0.42433748
+    ],
+    "midnight:tenebrum_helmet": [
+      809,
+      3.2958906
+    ],
+    "minecraft:chainmail_helmet": [
+      2310,
+      0.540316
+    ],
+    "minecraft:diamond_helmet": [
+      1394,
+      1.7373508
+    ],
+    "minecraft:golden_helmet": [
+      2376,
+      0.4136078
+    ],
+    "minecraft:iron_helmet": [
+      2062,
+      0.8764657
+    ],
+    "minecraft:leather_helmet": [
+      2658,
+      0.0244
+    ],
+    "minecraft:netherite_helmet": [
+      1267,
+      1.9030677
+    ],
+    "minecraft:turtle_helmet": [
+      2006,
+      0.948558
+    ],
+    "protection_pixel:bloodprisoner_helmet": [
+      1828,
+      1.1768677
+    ],
+    "protection_pixel:bloodprisoneras_helmet": [
+      1638,
+      1.4212085
+    ],
+    "protection_pixel:closed_helmet": [
+      1828,
+      1.1768677
+    ],
+    "protection_pixel:closedas_helmet": [
+      1638,
+      1.4212085
+    ],
+    "protection_pixel:hammer_helmet": [
+      1712,
+      1.3258815
+    ],
+    "protection_pixel:hammeras_helmet": [
+      1508,
+      1.589282
+    ],
+    "protection_pixel:hunter_helmet": [
+      1828,
+      1.1768677
+    ],
+    "protection_pixel:hunteras_helmet": [
+      1638,
+      1.4212085
+    ],
+    "protection_pixel:lancer_helmet": [
+      1828,
+      1.1768677
+    ],
+    "protection_pixel:lanceras_helmet": [
+      1638,
+      1.4212085
+    ],
+    "protection_pixel:plague_helmet": [
+      1828,
+      1.1768677
+    ],
+    "protection_pixel:plagueas_helmet": [
+      1638,
+      1.4212085
+    ],
+    "railways:black_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:blue_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:brown_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:cyan_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:gray_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:green_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:light_blue_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:light_gray_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:lime_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:magenta_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:orange_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:pink_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:purple_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:red_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:white_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "railways:yellow_conductor_cap": [
+      2272,
+      0.59678036
+    ],
+    "tfmg:steel_helmet": [
+      903,
+      2.3823528
+    ],
+    "the_pillager_legion_:legion_armor_helmet": [
+      1739,
+      1.2911562
+    ],
+    "the_pillager_legion_:legion_nether_armor_helmet": [
+      1683,
+      1.3632114
+    ],
+    "tomeofblood:living_mage_hood": [
+      1726,
+      1.3078723
+    ]
+  }
+}
