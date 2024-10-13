@@ -1,5 +1,0 @@
-
-#Common Settings
-[common]
-	enabledItems = ["sophisticatedstorage:diamond_to_netherite_tier_upgrade|true", "sophisticatedbackpacks:crafting_upgrade|true", "sophisticatedbackpacks:void_upgrade|true", "sophisticatedbackpacks:advanced_refill_upgrade|true", "sophisticatedstorage:copper_to_iron_tier_upgrade|true", "sophisticatedstorage:storage_input|true", "sophisticatedstorage:barrel|true"]
-

@@ -1,0 +1,11 @@
+[21:49:29] [INFO] [KUBEJS_THE_WINTER_RESCUE] TWR Blocks Registered!
+[21:49:29] [INFO] Loaded script startup_scripts:block_registry.js in 0.099 s
+[21:49:29] [INFO] [KUBEJS_THE_WINTER_RESCUE] TWR Fluids Registered!
+[21:49:29] [INFO] Loaded script startup_scripts:item_modify.js in 0.003 s
+[21:49:29] [INFO] Loaded script startup_scripts:fluid_registry.js in 0.004 s
+[21:49:29] [INFO] [KUBEJS_THE_WINTER_RESCUE] TWR Items Registered!
+[21:49:29] [INFO] Loaded script startup_scripts:item_registry.js in 0.011 s
+[21:49:29] [INFO] Loaded script startup_scripts:missing.js in 0.003 s
+[21:49:29] [INFO] [KUBEJS_THE_WINTER_RESCUE] TWR Worldgen Registered!
+[21:49:29] [INFO] Loaded script startup_scripts:worldgen_registry.js in 0.004 s
+[21:49:29] [INFO] Loaded 6/6 KubeJS startup scripts in 0.903 s
